@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
 
-## ⚡Estudo de Java Script⚡![controledeversao](https://img.shields.io/badge/Version-0.1-yellow)
+# ⚡Estudo de Java Script⚡![controledeversao](https://img.shields.io/badge/Version-0.1-yellow)
 
 Nesse repositório irei atualizar as novas funcionalidades em JavaScript que aprendi.
 
